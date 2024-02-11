@@ -6,7 +6,6 @@ Im Marina, from Argentina
  
 🤓 Learning App development and backend, creating some stuff with Flutter
 
-⚡ Available for freelance projects
 <!--
 **marinamastro/marinamastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
