@@ -4,7 +4,6 @@ Im Marina, from Argentina
 
  🌱 I’m actually working as web frontend developer with React js, in a fulltime position.
  
-🤓 Learning App development and backend, creating some stuff with Flutter
 
 <!--
 **marinamastro/marinamastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
